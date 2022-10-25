@@ -1,16 +1,22 @@
-# CPSC350_SP22_ASSIGNMENT2_DOSHI
+# Tutnese <--> English Translator
+This program takes the user input and translates it from Tutnese to English or vice versa based on the user's choice.
 
-Sanil Doshi, ID: 2344493
+## Identifying Information
+* Sanil Doshi
+* Chapman University
 
-#Files: Model.h, Model.cpp, Translator.h, Translator.cpp, FileProcessor.h, FileProcessor.cpp,
-main.cpp, Makefile
+## Source File
+* Model.h
+* Model.cpp
+* Translator.h
+* Translator.cpp
+* FileProcessor.h
+* FileProcessor.cpp,
+* main.cpp
+* Makefile
 
-#Resources:
-Replacing String
-https://www.cplusplus.com/reference/string/string/replace/
+## Build Instructions
+* Makeall
 
-Finding String:
-https://www.cplusplus.com/reference/string/string/find/
-
-Command Line Arguments:
-https://www.journaldev.com/41869/command-line-arguments-c-plus-plus
+## Exectuion Instructions
+* ./main.o 'file_location'
